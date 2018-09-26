@@ -1,0 +1,58 @@
+body { 
+    background-color: rgb(100, 114, 141);
+}
+
+.border, .char_box {
+    border: 1px solid white;
+
+}
+
+
+#content-wrapper { 
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+#hiro {
+    position: absolute;
+    z-index: 6;
+    left: 200px;
+    top: 94px;
+}
+
+#logo {
+    position: absolute;
+    z-index: 7;
+    left: 490px;
+    top: 447px;
+}
+
+#gogo {
+    position: absolute;
+    z-index: 5;
+    left: 100px;
+    top: 50px;
+}
+
+#josh {
+    position: absolute;
+    z-index: 1;
+    left: 600px;
+    top: 10px;
+}
+
+#honey {
+    position: absolute;
+    z-index: 5;
+    left: 600px;
+    top: 30px;
+}
+
+#wasabi {
+    position: absolute;
+    z-index: 3;
+    left: 200px;
+    top: 94px;
+}
